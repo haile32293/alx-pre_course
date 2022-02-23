@@ -1,1 +1,1 @@
-this is my new read me in the new forlder
+changed echo ALX  to echo ALX school is so cool
